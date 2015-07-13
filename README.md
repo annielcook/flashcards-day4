@@ -1,2 +1,3 @@
-# Angular Flash Cards - Day 1
-# flashcards-day4
+# Angular Flash Cards - Day 4
+# working with ng-model and form validation
+
